@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "fwtTy+QOG/Rw2X7A2IdZ/RdkENLM90D/tqZ4OrCuOJw=",
+  "Source": "MISA.WEB02.Core",
+  "BasePath": "_content/MISA.WEB02.Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MISA.WEB02.Core\\wwwroot",
+      "Source": "MISA.WEB02.Core",
+      "ContentRoot": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\wwwroot\\",
+      "BasePath": "_content/MISA.WEB02.Core",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MISA.WEB02.Core.styles.css",
+      "SourceId": "MISA.WEB02.Core",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MISA.WEB02.Core",
+      "RelativePath": "MISA.WEB02.Core.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MISA.WEB02.Core.styles.css"
+    },
+    {
+      "Identity": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MISA.WEB02.Core.bundle.scp.css",
+      "SourceId": "MISA.WEB02.Core",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MISA.WEB02.Core",
+      "RelativePath": "MISA.WEB02.Core.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MISA.WEB02.Core.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\wwwroot\\background.png",
+      "SourceId": "MISA.WEB02.Core",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\wwwroot\\",
+      "BasePath": "_content/MISA.WEB02.Core",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "MISA.WEB02.Core",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C-Disks\\Data\\Visual Studio 2022\\source\\repos\\MISA.Core\\MISA.Core\\wwwroot\\",
+      "BasePath": "_content/MISA.WEB02.Core",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

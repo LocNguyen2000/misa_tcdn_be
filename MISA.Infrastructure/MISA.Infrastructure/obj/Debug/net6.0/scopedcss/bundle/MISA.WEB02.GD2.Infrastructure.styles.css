@@ -1,0 +1,9 @@
+@import '_content/MISA.WEB02.GD2.Core/MISA.WEB02.GD2.Core.bundle.scp.css';
+
+/* _content/MISA.WEB02.GD2.Infrastructure/Component1.razor.rz.scp.css */
+.my-component[b-qhmtjdwi72] {
+    border: 2px dashed red;
+    padding: 1em;
+    margin: 1em 0;
+    background-image: url('background.png');
+}
