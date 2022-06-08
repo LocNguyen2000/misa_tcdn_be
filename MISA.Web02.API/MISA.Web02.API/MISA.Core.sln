@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.Core", "MISA.Core\MISA.Core.csproj", "{02315679-C535-487E-9892-F5A74352B2A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02315679-C535-487E-9892-F5A74352B2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02315679-C535-487E-9892-F5A74352B2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02315679-C535-487E-9892-F5A74352B2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02315679-C535-487E-9892-F5A74352B2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1C68B7-97D2-4E3E-BE41-B8762F2C7513}
+	EndGlobalSection
+EndGlobal
